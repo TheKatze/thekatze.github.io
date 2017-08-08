@@ -51,11 +51,11 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-    font-size: 2.5rem;
+    font-size: 3em;
 }
 
 h2 {
-    font-size: 2.2rem;
+    font-size: 2.6rem;
 }
 
 #welcomePage {
@@ -70,8 +70,14 @@ h2 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
 
+#welcomeText {
+    font-size: 3rem;
+}
 
+#welcomeSub {
+    font-size: 2.3rem;
 }
 
 p {
@@ -96,6 +102,7 @@ a:hover {
     position: absolute;
     bottom: 5rem;
     width: 100%;
+    font-size: 1.5rem;
 }
 
 .separator {
