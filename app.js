@@ -6,7 +6,7 @@ let myAge = 0;
 
 document.getElementById('myAge').innerHTML = getAge("1999/06/28");
 
-
+document.getElementById('yearsProducing').innerHTML = getAge("2015/08/07");
 
 
 
